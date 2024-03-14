@@ -1,6 +1,6 @@
 # User_Managment
 
-This project was just a way for me to learn basic login, register, and logout functionalities. I included cookis into the mix.
+This project was just a way for me to learn basic login, register, and logout functionalities. I included cookies into the mix.
 
 I utilized MySQl and mysqli db connections.
 
